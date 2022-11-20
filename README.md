@@ -1,4 +1,4 @@
-## About Wifi Billing System
+## About US Billing System
 Wifi Billing System is a wide billing system over a WiFi internet service. In this web-app, we have a accounting system, tax (ppn - pph).
 
 ## Spesification
